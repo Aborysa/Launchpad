@@ -1,0 +1,14 @@
+{
+  "name": "launchpad",
+  "version": "0.1.0",
+  "description": "Server for redirecting http to app redirect",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "type": "module",
+  "author": "Janne",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
